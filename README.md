@@ -1,9 +1,9 @@
-![GitHub all releases](https://img.shields.io/github/downloads/{username}/{repo-name}/total)
-![GitHub language count](https://img.shields.io/github/languages/count/{username}/{repo-name}) 
-![GitHub top language](https://img.shields.io/github/languages/top/{username}/{repo-name}?color=yellow) 
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/{username}/{repo-name})
-![GitHub forks](https://img.shields.io/github/forks/{username}/{repo-name}?style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/{username}/{repo-name}?style=social)
+![GitHub all releases](https://img.shields.io/github/downloads/KobAmoah/Employee-Management-System/total)
+![GitHub language count](https://img.shields.io/github/languages/count/KobAmoah/Employee-Management-System) 
+![GitHub top language](https://img.shields.io/github/languages/top/KobAmoah/Employee-Management-System?color=yellow) 
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/KobAmoah/Employee-Management-System)
+![GitHub forks](https://img.shields.io/github/forks/KobAmoah/Employee-Management-System?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/KobAmoah/Employee-Management-System?style=social)
 
 # Employee-Management-System
 This project compares two data structures - linked list and array - to understand which performs better in terms of storage for the employees of a company.
