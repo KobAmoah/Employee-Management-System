@@ -1,7 +1,7 @@
 /**
-*This program creates an employee object
-*@verion 1.0 2023-04-05
-*@author Kobby Amoah
+* This program creates an employee object.
+* @verion 1.0 2023-04-05
+* @author Kobby Amoah
 */
 import java.time.*;
 
