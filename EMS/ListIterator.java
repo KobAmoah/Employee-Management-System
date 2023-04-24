@@ -1,6 +1,6 @@
 /**
 * This program creates  an Iterator class for the SinglyLinkedList.
-* The work derives of off initial work by Robert Lafore(Data Structures & Algorithms in Java) Chap 5.9 .
+* The work derives from initial work by Robert Lafore(Data Structures & Algorithms in Java) Chap 5.9 .
 * There are notable differences between my work and his work however. For example, I define the class to be a generic class.
 *@verion 1.0 2023-04-05
 *@author Kobby Amoah
