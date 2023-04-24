@@ -1,6 +1,6 @@
 /**
 * This program creates  a class for the SinglyLinkedList. Note this is without a tail.
-* The work derives of off initial work by Mark GoodRich(Data Structures & Algorithms in Java) Chap 3.2.
+* The work derives from initial work by Mark GoodRich(Data Structures & Algorithms in Java) Chap 3.2.
 * There are notable differences between my work and his work however. For example, my work instantiates the list as iterable.
 *@verion 1.0 2023-04-05
 *@author Kobby Amoah
