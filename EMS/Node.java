@@ -2,8 +2,8 @@
 * This program creates node objects for the SinglyLinkedList.
 * The work derives from initial work by Mark GoodRich(Data Structures & Algorithms in Java) Chap 3.1 .
 * There are notable differences between my work and his work however. For example, mine contains a displayNode method.
-*@verion 1.0 2023-04-05
-*@author Kobby Amoah
+* @verion 1.0 2023-04-05
+* @author Kobby Amoah
 */
 
 import java.util.*;
