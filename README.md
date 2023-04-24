@@ -8,6 +8,10 @@
 # Employee-Management-System
 This project compares two data structures - linked list and array - to understand which performs better in terms of storage for the employees of a company.
 
+## Table of Contents
+- [Usage](#usage)
+- [License](#license)
+
 ## Usage
 
 The following provides instructions on setting up your project locally. To get a local copy up and running, follow these steps.
