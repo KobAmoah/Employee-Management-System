@@ -1,5 +1,5 @@
 /**
-*This program creates a class for storing the Array Implemented version of the Employee Object
+* This program creates a class for storing the Array Implemented version of the Employee Object.
 * The work derives from initial work by Mark GoodRich(Data Structures & Algorithms in Java) Chap 7.
 * There are notable differences between my work and his work however. For example, his work is designed to work for array lists
 * which are unbounded. Mine is bounded.(Number of elements)
