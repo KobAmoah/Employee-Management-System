@@ -6,7 +6,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/{username}/{repo-name}?style=social)
 
 # Employee-Management-System
-This project investigates two data structures - linked list and array - to understand which performs better in terms of storage for the employees of a company.
+This project compares two data structures - linked list and array - to understand which performs better in terms of storage for the employees of a company.
 
 ## Usage
 
