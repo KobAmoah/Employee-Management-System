@@ -10,8 +10,8 @@ This project compares two data structures - linked list and array - to understan
 
 ## Usage
 
-The following provides instructions on setting up your project locally. To get a local copy up and running follow these simple example steps.
-1. Clone the repo
+The following provides instructions on setting up your project locally. To get a local copy up and running, follow these steps.
+1. Clone the repo:
 
 ````git clone https://github.com/KobAmoah/Employee-Management-System.git````
 
