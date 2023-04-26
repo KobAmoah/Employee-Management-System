@@ -92,9 +92,7 @@ public class ArrayEmployee{
     /** Display content of the Employee Array*/
     public void displayArray(){
         for (int j=0; j< size; j++)
-            System.out.print(allEmployees[j]);
-            System.out.print("\n");
-        System.out.println("");
+             System.out.print(allEmployees[j] + "\n");
     }
     
      /** Returns(but does not remove) first element of the ArrayEmployee.*/ 
