@@ -27,5 +27,10 @@ The following provides instructions on setting up your project locally. To get a
 
 ````java EmployeeManagementSystem````
 
+<img width="426" alt="Screenshot 2023-05-03 at 5 17 25 PM" src="https://user-images.githubusercontent.com/108365002/236063512-b698cbd1-6b76-45f1-a8bc-0f4e4de2515e.png">
+
+<img width="444" alt="Screenshot 2023-05-03 at 5 18 07 PM" src="https://user-images.githubusercontent.com/108365002/236063549-b55631a3-b634-4f7b-8cd2-41c27a81f0d0.png">
+
+
 ## License
 Distributed under the MIT License. See ````LICENSE.txt````for more information.
