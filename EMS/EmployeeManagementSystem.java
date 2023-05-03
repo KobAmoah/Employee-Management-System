@@ -1,5 +1,5 @@
 /**
-* This program creates a testing class for an example employee managemenet system.
+* This program creates a testing class for an example employee management system.
 * The goal is to compare the efficiency of an Array implemented version to a Linked List
 * @verion 1.0 2023-04-05
 * @author Kobby Amoah
